@@ -91,7 +91,7 @@ def main():
         print("Invalid day. Please enter a number between 1 and 25.")
         return
 
-    day_folder = f"day{folder_name}"
+    day_folder = f"puzzles/day{folder_name}"
     url = f'https://adventofcode.com/2024/day/{folder_name}/input'
     output_file = 'input.txt'
 
