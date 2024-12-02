@@ -10,3 +10,4 @@ Each day's folder has a detailed explanation of my approach.
 | Day | Project Title | My Approach | Difficulty Rating (Out of 5) | Intriguing Factor (Out of 5) |
 |------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----------------------------|
 | Day 1| Historian Hysteria | Calculated total distance by pairing sorted numbers and similarity score by summing products of left numbers and their counts in the right list. | 🌕🌑🌑🌑🌑 (1/5) | ⭐️☆☆☆☆ (1/5) |
+| Day 1| Red-Nosed Reports | Created logic for checking validity of report and brute force for part2 (only 5 levels...) | 🌕🌑🌑🌑🌑 (1/5) | ⭐️☆☆☆☆ (1/5) |
